@@ -1,3 +1,10 @@
+// Runtime: 47 ms
+// Memory Usage: 7.1 MB
+
+// Runtime beats 66.10% submissions
+
+// Memory beats 81% submissions
+
 package main
 
 import (
